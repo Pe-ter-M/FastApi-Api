@@ -5,5 +5,5 @@ POST http://127.0.0.1:8000
 
 {
     "name":"Peter Mburu",
-    "phone":0748200233
+    "phone":"0748200233"
 }
